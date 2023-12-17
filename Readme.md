@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uto4ka101
+- 👋 Hi, I’m @yuliyaosipava
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Flask&Django
 - 💞️ I’m looking to collaborate on freelance project
